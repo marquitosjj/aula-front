@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Programação Front-End</title>
+        <link rel="shortcut icon" href="bing.jpeg" type="image/x-icon">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div>
+            <ul class="menu">
+                <li><a href="index.html">Pagina Inicial</a></li>
+                <li><a href="pngpngtree-template-for-shopping-banner-with-free-shipping-sales-and-discounts-vector-png-image_47565762.jpg">Loja</a></li>
+               <li><a href="contato.html">Contato</a></li>
+
+            </ul>
+        <img class="capa-amazon_tb-1060x596.png" src="capa-amazon_tb-1060x596.png">
+        <h1>Programação</h1>
+</div>
+        <p><strong>Linguagens de Programação</strong></p>
+        <p>Exemplos</p>
+        <ul>
+            <li>C</li>
+            <li>C++</li>
+            <li>Java</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+        </ul>
+        <img windth="100px" src="banner-compra.png">
+        <br>
+        <a href="https://google.com.br">Link para o google </a>
+        <div class="conteudo">
+           
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/Av5YeL-RrVA?si=L06AAlQ00sKK885Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.2401335458258!2d-46.685351424668845!3d-23.595719378776256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57031bc31edb%3A0xd6145cf258d6a9ca!2sVitrinni%20Lounge%20Beer%20SP!5e0!3m2!1spt-BR!2sbr!4v1745331196129!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </body>
+</html>

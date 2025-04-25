@@ -1,0 +1,47 @@
+div {
+    background-color:#d4eb09d4;
+    text-align: center;
+}
+body {
+    background-color:#087623d4;
+      font-family: "Roboto Mono", monospace;
+}
+h1 {
+    font-size: 50px;
+    display: inline;
+    margin-left: 30px;
+}
+.logo {
+    width: 120px;
+}
+
+p{
+    font: size 25px;
+    background-color: #cf1313;
+    color: #ba0707d8;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: #f9ffff;
+}
+
+.menu a{
+text-decoration: none;
+font-size: 25px;
+color:rgb(255, 0, 0);
+font-size: 35px;
+font-weight: bold;
+line-height: 45px;
+}
+
+.menu a:hover{
+    color:#26fa00
+}
+.conteudo {
+    align-items: center ;
+    background-color: #ff0000;
+    text-align:center;
+}
